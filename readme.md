@@ -14,6 +14,8 @@ LaravelからSocialiteを利用してTwitterのログインを実装すること
 
 - laravel: 5.4.23
 
+- composer: 1.3.2
+
 ## 手順
 
 ```
